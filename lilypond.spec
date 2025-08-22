@@ -116,6 +116,8 @@ This package contains the directory common to all lilypond fonts.
 
 
 %build
+export CC=gcc
+export CXX=g++
 export GUILE_FLAVOR=guile-3.0
 # Needed only when building unstable
 #./autogen.sh --noconfigure
