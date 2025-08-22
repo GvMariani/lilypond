@@ -43,6 +43,7 @@ BuildRequires:	pkgconfig(fontconfig) >= 2.4.0
 BuildRequires:	pkgconfig(glib-2.0) >= 2.38
 #BuildRequires:	pkgconfig(guile-2.2)
 BuildRequires:	pkgconfig(guile-3.0)
+BuildRequires:	pkgconfig(libfl)
 BuildRequires:	pkgconfig(pango) >= 1.12.0
 BuildRequires:	pkgconfig(pangoft2) >= 1.38.0
 BuildRequires:	pkgconfig(python3) >= 3.6
