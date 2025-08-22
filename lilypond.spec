@@ -50,7 +50,6 @@ BuildRequires:	pkgconfig(python3) >= 3.6
 Requires:	ghostscript >= 9.03
 Requires:	guile >= 3.0.10
 Requires:	lilypond-emmentaler-fonts = %{EVRD}
-Requires:	lilypond-texgyre-fonts = %{EVRD}
 %rename	lilypond-fonts
 
 %description
